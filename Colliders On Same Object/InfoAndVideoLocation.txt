@@ -1,0 +1,15 @@
+This Project was just made so I could contribute to the community a bit.
+
+It doesnt mention using getcomponents and making an array of colliders
+I assume this would array the colliders in order top to bottom on how they are positioned
+in the inspector. Then maybe you could identify them some how.
+
+Maybe looking into how they work with listners and delegates using sololearn resources
+on C# you may be able to differente some how. For instance OnTriggerEnter
+refers to any trigger but maybe different triggers could have different parameters
+they pass and so get picked up by different methods.
+
+https://answers.unity.com/questions/170610/multiple-triggers-on-one-object.html
+-question was contributing to 
+
+
