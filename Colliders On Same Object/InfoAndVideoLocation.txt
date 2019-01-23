@@ -10,6 +10,8 @@ refers to any trigger but maybe different triggers could have different paramete
 they pass and so get picked up by different methods.
 
 https://answers.unity.com/questions/170610/multiple-triggers-on-one-object.html
--question was contributing to 
+-question was contributing to
 
+ 
 
+video is on youtube https://youtu.be/7GASazoHlck
